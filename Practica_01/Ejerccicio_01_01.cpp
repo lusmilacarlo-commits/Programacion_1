@@ -1,9 +1,13 @@
 #include <iostream>
-
 using namespace std;
+
 
 int main()
 {
-    cout << "Hola mundo.";
-    return 0;
+    
+cout<<"LUSMILA"<<endl;
+cout<<"carrera"<<endl;
+cout<<"ckjijfjj";
+return 0;
+
 }
