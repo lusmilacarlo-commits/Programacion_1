@@ -5,9 +5,9 @@ using namespace std;
 int main()
 {
     
-cout<<"LUSMILA"<<endl;
-cout<<"carrera"<<endl;
-cout<<"ckjijfjj";
+cout<<"Hola, soy estudiante de progracion."<<endl;
+cout<<"Lusmila Abigail Carlo Quispe"<<endl;
+cout<<"Ingenieria Mecatronica";
 return 0;
 
 }
