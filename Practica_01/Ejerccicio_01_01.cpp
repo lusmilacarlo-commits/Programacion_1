@@ -1,3 +1,10 @@
+// Materia: Programacion I, Paralelo 4
+// Autor: Lusmila Abigail Carlo Quispe
+// Carnet:10907331 L.P.
+//Carrera del estudiante: Ingenieria Mecatrónica
+// Fecha de creación: 27/08/2025
+//Número de ejercicio: 1 
+
 #include <iostream>
 using namespace std;
 
