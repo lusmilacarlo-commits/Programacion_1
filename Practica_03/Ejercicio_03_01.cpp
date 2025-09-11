@@ -3,7 +3,7 @@
 // Carnet:10907331 L.P.
 //Carrera del estudiante: Ingenieria Mecatrónica
 // Fecha de creación: 10/09/2025
-//Número de ejercicio: 7
+//Número de ejercicio: 1
 
 #include <iostream>
 using namespace std;
